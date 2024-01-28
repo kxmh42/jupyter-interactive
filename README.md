@@ -20,7 +20,7 @@ Initialise a Jupyter notebook with useful extensions and reasonable defaults.
     - Display Matplotlib plots as interactive, resizable widgets (using
       [`ipympl`](https://matplotlib.org/ipympl/)).
     - Display Matplotlib plots at a higher resolution.
-    - Zoom in and out of Plotly figures using the mosue scroll wheel and/or
+    - Zoom in and out of Plotly figures using the mouse scroll wheel and/or
       two-finger scrolling.
     - Download Plotly figures at their currently rendered size.
     - Ensure that dragging Plotly figures results in panning (rather than
