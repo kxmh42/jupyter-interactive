@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jupyter-interactive"
-version = "0.1.0"
+version = "0.1.1"
 description = "Initialise a Jupyter notebook with useful extensions and reasonable defaults"
 authors = ["kxmh42 <kxmh42@users.noreply.github.com>"]
 license = "CC0-1.0"
