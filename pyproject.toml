@@ -28,6 +28,9 @@ tensorflow = [
     {version = "^2.12", optional = true, python = ">=3.8"},
 ]
 
+[tool.poetry.extras]
+torch = ["torch"]
+tensorflow = ["tensorflow"]
 
 [build-system]
 requires = ["poetry-core"]
